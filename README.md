@@ -1,3 +1,3 @@
 # HelloWorld
 hello
-test
+1.0
